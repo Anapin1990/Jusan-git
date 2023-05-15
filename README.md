@@ -38,3 +38,6 @@ class Main {
 | LinkedIn      | [Ссылка](https://github.com/Anapin1990/Jusan-git.git) | 3 часа        |
 | WhatsApp      | [Ссылка](https://github.com/Anapin1990/Jusan-git.git) | 30 минут      |
 | Telegram      | [Ссылка](https://github.com/Anapin1990/Jusan-git.git) | 5 минут       |
+
+## **Выводит имя пользователя**
+	bash ./username.sh
